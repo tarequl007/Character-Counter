@@ -1,0 +1,32 @@
+.top-heading {
+    text-align: center;
+    font-weight: 100;
+    font-size: 50px;
+    margin-bottom: 60px;
+}
+
+.container {
+    display: flex;
+    margin-top: 150px;
+}
+
+.inputDiv {
+    flex-basis: 50%;
+}
+
+.inputDiv textarea {
+    font-size: 20px;
+}
+
+.resultDiv {
+    flex-basis: 45%;
+    padding: 10px 20px;
+    box-shadow: 5px 10px 20px #ddd;
+    border-radius: 10px;
+}
+
+.result-heading {
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
